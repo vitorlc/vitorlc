@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Vitor de Lima.
+
+- 🔭 I’m currently working on JavaScript. Using Node on Backend and Vue on Frontend.
+- 🌱 I’m currently learning React and React Native.
+- ⚡ Technologies: Vue, Node, ReacNative, Mysql
 <!--
 **vitorlc/vitorlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ...
 -->
