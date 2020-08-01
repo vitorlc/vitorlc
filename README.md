@@ -5,6 +5,9 @@ My name is Vitor de Lima.
 - 🔭 I’m currently working on JavaScript. Using Node on Backend and Vue on Frontend.
 - 🌱 I’m currently learning React and React Native.
 - ⚡ Technologies: Vue, Node, ReacNative, Mysql
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/vitorlc)
+
 <!--
 **vitorlc/vitorlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
