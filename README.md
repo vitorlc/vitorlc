@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vitor de Lima Cirqueira.
+I'm Vitor.
 
 - 🔭 I’m currently working on JavaScript. Using Node on Backend and Vue on Frontend.
 - 🌱 I’m currently learning TDD, Clean Architecture, Design Patterns and SOLID.
