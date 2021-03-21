@@ -3,7 +3,7 @@
 My name is Vitor de Lima Cirqueira.
 
 - 🔭 I’m currently working on JavaScript. Using Node on Backend and Vue on Frontend.
-- 🌱 I’m currently learning React and React Native.
+- 🌱 I’m currently learning TDD, Clean Architecture, Design Patterns and SOLID.
 
 ### Technologies:
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -18,8 +18,8 @@ My name is Vitor de Lima Cirqueira.
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vitorlc&label=👀" alt="eitchtee" /> </p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vitorlc&label=👀" alt="eitchtee" /> </p> -->
+### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
 JavaScript   5 hrs 31 mins   ███████████████████▒░░░░░   77.92 % 
@@ -27,3 +27,5 @@ Vue.js       1 hr 31 mins    █████▒░░░░░░░░░░░
 SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
+
+**Takes into account other private git repositories*
