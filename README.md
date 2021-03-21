@@ -22,6 +22,8 @@ My name is Vitor de Lima Cirqueira.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
+Week: 13 March, 2021 - 20 March, 2021
+
 JavaScript   5 hrs 31 mins   ███████████████████▒░░░░░   77.92 % 
 Vue.js       1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.62 % 
 SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
