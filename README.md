@@ -22,13 +22,13 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 14 April, 2021 - 21 April, 2021
+Week: 15 April, 2021 - 22 April, 2021
 
-JavaScript   16 hrs 1 min    ███████████████████▒░░░░░   77.08 % 
-Vue.js       2 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-SQL          1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JavaScript   12 hrs 28 mins  ████████████████████░░░░░   79.93 % 
+Vue.js       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+SQL          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
