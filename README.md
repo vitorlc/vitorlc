@@ -21,13 +21,13 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
-JavaScript   15 hrs 14 mins  ██████████████████████▓░░   91.13 % 
-JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript   13 hrs 29 mins  ██████████████████████▓░░   90.74 % 
+JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
