@@ -2,7 +2,7 @@
 
 I'm Vitor.
 
-- 🔭 I’m currently working on JavaScript. Using Node on Backend and Vue on Frontend.
+- 🌱 I’m currently learning ways to improve my React and Node.js skills!
 
 ### Technologies:
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
