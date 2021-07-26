@@ -21,7 +21,7 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 19 July, 2021 - 25 July, 2021
 
 TypeScript   4 hrs 54 mins   █████████████████░░░░░░░░   67.58 % 
 Markdown     1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 % 
