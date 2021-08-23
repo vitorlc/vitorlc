@@ -21,7 +21,7 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2021 - 21 August, 2021
+Week: 16 August, 2021 - 22 August, 2021
 
 Python       24 hrs 19 mins  ███████████████████████░░   91.47 % 
 INI          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
