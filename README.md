@@ -21,7 +21,7 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
+Week: 26 October, 2021 - 01 November, 2021
 
 Python       9 hrs 4 mins    █████████████████████▓░░░   86.11 % 
 JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
