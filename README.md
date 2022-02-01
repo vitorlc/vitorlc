@@ -21,13 +21,13 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
-Python       5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.78 % 
-YAML         4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.30 % 
-JavaScript   1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Text         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Python       5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.82 % 
+YAML         4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript   1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Text         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
 
