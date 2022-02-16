@@ -21,7 +21,9 @@ I'm Vitor.
 ### :bar_chart: Weekly development breakdown*
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 20 hrs 35 mins
 
 Python       16 hrs 15 mins  ███████████████████▓░░░░░   78.16 % 
 JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
