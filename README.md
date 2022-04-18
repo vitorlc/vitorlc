@@ -32,7 +32,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
 HTML         10 hrs 32 mins  ███████████░░░░░░░░░░░░░░   43.59 %
 JavaScript   6 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 %
