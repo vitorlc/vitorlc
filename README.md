@@ -32,7 +32,10 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 June 2022 - To: 06 July 2022
+
+JavaScript   0 secs          ████████████████████▓░░░░   83.00 %
+Other        0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
 ```
 
 <!--END_SECTION:waka-->
