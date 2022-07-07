@@ -2,9 +2,6 @@
 
 I'm Vitor.
 
-- 🌱 I’m currently learning ways to improve my React and Node.js skills!
-
-
 #### :clipboard: Languages:
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/vitorlc?tab=repositories&q=&type=public&language=javascript&sort=)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/vitorlc?tab=repositories&q=&type=public&language=python&sort=)
