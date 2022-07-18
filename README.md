@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
+From: 10 July 2022 - To: 17 July 2022
 
 JavaScript   6 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.49 %
 Svelte       4 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 %
