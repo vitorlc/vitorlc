@@ -29,14 +29,13 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
-JavaScript   5 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.20 %
-TypeScript   2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Python       1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-YAML         1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Bash         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Svelte       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript   6 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.69 %
+YAML         1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Bash         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Svelte       44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
