@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
 JavaScript   6 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.69 %
 YAML         1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
