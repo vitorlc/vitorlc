@@ -29,10 +29,10 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-JavaScript   13 hrs 47 mins  █████████████████████▓░░░   86.54 %
-Other        1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+JavaScript   11 hrs 43 mins  ██████████████████████▒░░   88.86 %
+Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
 <!--END_SECTION:waka-->
