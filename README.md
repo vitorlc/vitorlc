@@ -29,7 +29,10 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 October 2022 - To: 12 October 2022
+
+JavaScript   42 mins         ███████████████████▒░░░░░   77.37 %
+Other        6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 ```
 
 <!--END_SECTION:waka-->
