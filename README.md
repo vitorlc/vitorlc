@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 12 November 2022
+From: 06 November 2022 - To: 13 November 2022
 
 JavaScript   11 hrs 4 mins   █████████████████████▒░░░   85.07 %
 Python       1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
