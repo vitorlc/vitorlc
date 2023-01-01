@@ -29,11 +29,13 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
-Vue.js          4 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   31.65 %
-JavaScript      3 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Other           1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+JavaScript   4 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
+Vue.js       4 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
+YAML         1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Python       1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 ```
 
 <!--END_SECTION:waka-->
