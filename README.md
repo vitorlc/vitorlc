@@ -29,12 +29,12 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Python       5 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.61 %
-JavaScript   5 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.63 %
-YAML         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Other        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JavaScript   5 hrs 57 mins   ███████████░░░░░░░░░░░░░░   43.49 %
+Python       5 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.13 %
+YAML         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
