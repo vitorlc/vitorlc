@@ -29,11 +29,11 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-JavaScript   2 hrs 38 mins   ████████████░░░░░░░░░░░░░   48.46 %
-Java         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Other        36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+JavaScript   2 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.20 %
+Java         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Other        36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
 ```
 
 <!--END_SECTION:waka-->
