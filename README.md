@@ -29,9 +29,9 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 February 2023 - To: 18 February 2023
+From: 12 February 2023 - To: 19 February 2023
 
-JavaScript   7 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.48 %
+JavaScript   7 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.47 %
 Vue.js       4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
 TypeScript   2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
 YAML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
