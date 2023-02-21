@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
 JavaScript   7 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.47 %
 Vue.js       4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
