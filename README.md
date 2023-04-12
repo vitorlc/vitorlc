@@ -29,14 +29,9 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-JavaScript   21 mins         ███████████▒░░░░░░░░░░░░░   45.14 %
-Vue.js       13 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
-JSON         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-Svelte       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
