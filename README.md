@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
 TypeScript   3 hrs 5 mins    ██████████████████████▒░░   89.02 %
 Vue.js       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
