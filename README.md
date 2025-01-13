@@ -29,7 +29,7 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 TypeScript   10 hrs 50 mins  ███████████████████████░░   91.38 %
 Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
