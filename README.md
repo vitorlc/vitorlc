@@ -29,13 +29,13 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Ruby         8 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.81 %
-TypeScript   4 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-Bash         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Vue.js       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Ruby         9 hrs 51 mins   ███████████████▓░░░░░░░░░   62.80 %
+TypeScript   3 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+Bash         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Vue.js       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
