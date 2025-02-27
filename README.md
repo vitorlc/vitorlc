@@ -29,12 +29,9 @@ I'm Vitor.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Other        17 mins         █████████████░░░░░░░░░░░░   52.05 %
-Bash         15 mins         ███████████▒░░░░░░░░░░░░░   45.56 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
