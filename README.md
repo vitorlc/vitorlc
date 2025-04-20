@@ -27,13 +27,13 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Svelte        1 hr 43 mins    ██████████▒░░░░░░░░░░░░░░   41.78 %
-YAML          34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-TypeScript    34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-HTML          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JSON          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Svelte        1 hr 43 mins    ██████████▓░░░░░░░░░░░░░░   42.20 %
+TypeScript    34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+YAML          31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+HTML          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JSON          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
