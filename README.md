@@ -27,7 +27,7 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
 Svelte        1 hr 43 mins    ██████████▓░░░░░░░░░░░░░░   42.20 %
 TypeScript    34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
