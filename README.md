@@ -27,10 +27,10 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Vue.js       1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-YAML         1 hr 19 mins    ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+Vue.js       1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.19 %
+YAML         1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   28.65 %
 JavaScript   32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
 Markdown     30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
 HTML         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
