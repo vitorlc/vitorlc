@@ -27,12 +27,13 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-YAML       26 mins         ███████████▓░░░░░░░░░░░░░   46.18 %
-HTML       14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-SCSS       11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Markdown   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+TypeScript   24 mins         ██████████████░░░░░░░░░░░   55.57 %
+YAML         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+SCSS         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Markdown     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
