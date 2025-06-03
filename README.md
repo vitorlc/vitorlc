@@ -27,7 +27,7 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
 YAML   2 mins          █████████████████████████   100.00 %
 ```
