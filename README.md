@@ -27,13 +27,13 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-TypeScript   1 hr 35 mins    ███████████████▓░░░░░░░░░   62.12 %
-Markdown     23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Bash         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Makefile     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript   3 hrs 53 mins   █████████████████░░░░░░░░   67.44 %
+Bash         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JSON         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Markdown     23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+YAML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
