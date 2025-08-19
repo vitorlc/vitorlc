@@ -27,7 +27,7 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
 YAML         3 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.25 %
 TypeScript   2 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.23 %
