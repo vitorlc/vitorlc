@@ -27,7 +27,7 @@ I'm **Vitor**, a passionate developer who loves building cool things with code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
 TypeScript        4 hrs 37 mins   ████████████████▒░░░░░░░░   64.82 %
 JSON              54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
